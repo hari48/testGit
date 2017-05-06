@@ -2,7 +2,7 @@ hello Git
 
 m1(){
 sop(m1); // Commit made in remote // commit made local
-sop(m3);
+sop(m3); // RC2
 }
 
 random Content
