@@ -1,1 +1,10 @@
 hello Git
+
+m1(){
+sop(m1);
+sop(m3);
+}
+
+random Content
+...
+close
